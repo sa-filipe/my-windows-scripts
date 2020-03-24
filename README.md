@@ -3,6 +3,7 @@ Este repositório tem como objetivo compartilhar scripts facilitadores para usu�
 
 # 1 . aBATCH.bat (03/08/2016)
 Tem o objetivo de configurar e facilitar funções rotineiras ou específicas do sistema Windows, além de contar com plugins de terceiros para funções mais específicas e complexas que não poderiam ser executadas apenas com as linhas de comandos do SO, são elas:
+> digite: commands
 
 ### PLUGINS:
 - [ ZPOOL Miner ] or [ ZPOOL Miner Hide ] - [download](https://github.com/tpruvot/cpuminer-multi/releases)
